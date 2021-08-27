@@ -1,0 +1,24 @@
+{
+  "name": "my-nodejs-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/automl": "^2.4.1",
+    "@google-cloud/firestore": "^4.9.9",
+    "@google-cloud/language": "^4.2.2",
+    "@google-cloud/storage": "^5.8.4",
+    "csv-parse": "^4.15.4",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "mysql": "^2.18.1",
+    "promise-mysql": "^5.0.3",
+    "yelp-fusion": "^3.0.0"
+  }
+}

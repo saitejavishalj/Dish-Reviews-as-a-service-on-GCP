@@ -1,0 +1,176 @@
+{
+  "top_dishes": [
+    {
+      "french toast": 1.2000000476837158
+    },
+    {
+      "gourmet burgers": 0.699999988079071
+    },
+    {
+      "fontina": 0.699999988079071
+    },
+    {
+      "pizza": 0.699999988079071
+    },
+    {
+      "ribs": 0.699999988079071
+    }
+  ],
+  "top_by_res": [
+    {
+      "id": "rZbHg4ACfN3iShdsT47WKQ",
+      "dishes": [
+        {
+          "smoked corn": 0.20000000298023224
+        },
+        {
+          "not butter oily": 0.20000000298023224
+        },
+        {
+          "corn crunchy": 0.20000000298023224
+        },
+        {
+          "chicken rotisserie": 0.20000000298023224
+        }
+      ]
+    },
+    {
+      "id": "VVeogjZya58oiTxK7qUjAQ",
+      "dishes": [
+        {
+          "fantastic little": 0.5
+        },
+        {
+          "pizzas": 0.5
+        },
+        {
+          "toppings": 0.5
+        },
+        {
+          "fresh slices": 0.5
+        },
+        {
+          "fresh basil leaves": 0.5
+        },
+        {
+          "delicious,": 0.5
+        },
+        {
+          "LEGIT Italian pizza": 0.5
+        },
+        {
+          "freshly baked loaves": 0.5
+        },
+        {
+          "focaccia bread": 0.5
+        },
+        {
+          "extra virgin olive oil": 0.5
+        }
+      ]
+    },
+    {
+      "id": "QnAzW6KMSciUcuJ20oI3Bw",
+      "dishes": [
+        {
+          "gourmet burgers": 0.699999988079071
+        },
+        {
+          "fontina": 0.699999988079071
+        },
+        {
+          "pizza": 0.699999988079071
+        },
+        {
+          "ribs": 0.699999988079071
+        }
+      ]
+    },
+    {
+      "id": "Xq9tkiHhyN_aBFswFeGLvA",
+      "dishes": [
+        {
+          "bloody Marys": 0.30000001192092896
+        },
+        {
+          "egg sandwich sans bacon": 0.30000001192092896
+        },
+        {
+          "french toast": 1.2000000476837158
+        },
+        {
+          "cream and berries": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "id": "YKOvlBNkF4KpUP9q7x862w",
+      "dishes": [
+        {
+          "dark and romantic": 0.4000000059604645
+        },
+        {
+          "candle light": 0.4000000059604645
+        },
+        {
+          "-your-own": 0.4000000059604645
+        },
+        {
+          "Pork tacos": 0.4000000059604645
+        },
+        {
+          "tender meat": 0.4000000059604645
+        },
+        {
+          "pork": 0.4000000059604645
+        },
+        {
+          "tortillas": 0.4000000059604645
+        },
+        {
+          "tasty sauce": 0.4000000059604645
+        },
+        {
+          "pineapple glaze": 0.4000000059604645
+        }
+      ]
+    }
+  ],
+  "address": [
+    {
+      "business_id": "rZbHg4ACfN3iShdsT47WKQ",
+      "business_city": "Phoenix",
+      "business_full_address": "8501 N 27th Ave\nPhoenix, AZ 85051",
+      "business_categories": "American (New); Barbeque; Restaurants",
+      "business_name": "Bobby Q"
+    },
+    {
+      "business_id": "VVeogjZya58oiTxK7qUjAQ",
+      "business_city": "Phoenix",
+      "business_full_address": "623 E Adams St\nPhoenix, AZ 85004",
+      "business_categories": "Pizza; Restaurants",
+      "business_name": "Pizzeria Bianco"
+    },
+    {
+      "business_id": "QnAzW6KMSciUcuJ20oI3Bw",
+      "business_city": "Gilbert",
+      "business_full_address": "3000 E Ray Rd\nBldg 1\nGilbert, AZ 85296",
+      "business_categories": "American (Traditional); Restaurants",
+      "business_name": "Joe's Farm Grill"
+    },
+    {
+      "business_id": "Xq9tkiHhyN_aBFswFeGLvA",
+      "business_city": "Phoenix",
+      "business_full_address": "2 E Jefferson St\nSte 150\nPhoenix, AZ 85004",
+      "business_categories": "American (New); Restaurants",
+      "business_name": "The Arrogant Butcher"
+    },
+    {
+      "business_id": "YKOvlBNkF4KpUP9q7x862w",
+      "business_city": "Scottsdale",
+      "business_full_address": "3815 N Brown Ave\nScottsdale, AZ 85251",
+      "business_categories": "Latin American; Restaurants",
+      "business_name": "The Mission"
+    }
+  ]
+}
